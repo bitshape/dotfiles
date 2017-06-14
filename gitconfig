@@ -8,8 +8,7 @@
 [core]
   excludesfile = ~/.gitignore
 [user]
-  name = drew
-  email = drew@drewolson.org
-  signingkey = 9FA98BD6
+  name = anton
+  email = anton@dubyna.me
 [rebase]
   autosquash = true
